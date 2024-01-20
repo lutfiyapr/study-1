@@ -5,3 +5,5 @@
 # feature 2, tambahkan data apapun dibawah
 
     feature 2, sudah menjalankan penambahan data
+
+data feature telah diterima oleh master
