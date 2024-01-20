@@ -3,3 +3,5 @@
     feature 1, sudah menjalankan penambahan data
 
 # feature 2, tambahkan data apapun dibawah
+
+    feature 2, sudah menjalankan penambahan data
