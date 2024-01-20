@@ -1,1 +1,3 @@
 # feature 1, tambahkan data apapun dibawah
+
+    feature 1, sudah menjalankan penambahan data
